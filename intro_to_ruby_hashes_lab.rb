@@ -38,6 +38,7 @@ def monopoly_with_third_tier
     }
 	  }
 	 }
+	 monopoly[:names][0]
 end
 
 def monopoly_with_fourth_tier
